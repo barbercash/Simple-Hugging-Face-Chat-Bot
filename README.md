@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 ## 🚀 Running the Chatbot
 ```bash
-python chatbot_gui.py
+python main.py
 ```
 
 ## 🔧 Troubleshooting
